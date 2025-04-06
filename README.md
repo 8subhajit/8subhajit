@@ -1,10 +1,7 @@
-- 👋 Hi, I’m limitless028
-- 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🧭 Explorer of Ideas, Code & Curiosity
+I build, break, and rebuild things to see what’s possible.
+No map. Just instinct, caffeine, and code.
+Always learning. Always tinkering.
 
-<!---
-8subhajit/8subhajit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s see what’s out there.
+
